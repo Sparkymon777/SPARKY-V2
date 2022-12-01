@@ -26,7 +26,7 @@
 
 1. Click [SCAN](https://astro-qr.astromdqr.repl.co/) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
-2. Click [FORK](https://github.com/Sparkymon777/SPARKY-V1/fork)
+2. Click [FORK](https://github.com/Sparkymon777/SPARKY-V2/fork)
 
 2. After That Upload Session.json File
 
