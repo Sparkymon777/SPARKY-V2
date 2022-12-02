@@ -27,11 +27,32 @@
 ### FOR TERMUX USER
 1. Type below given commands one by one in Termux.
 ```
-git clone https://github.com/Sparkymon777/SPARKY-V2
 
-cd SPARKY-V2
+   termux-setup-storage 
+   
+   termux-change-repo 
+   
+   pkg update -y
 
-npm start
+   pkg upgrade -y
+
+   pkg install nodejs -y
+
+   pkg install figlet -y
+
+   pkg install nodejs-lts -y
+
+   pkg install ffmpeg -y
+
+   pkg install wget -y
+
+   pkg install git -y
+
+   git clone https://github.com/Sparkymon777/SPARKY-V2
+
+   cd SPARKY-V2
+
+   npm start
 
 ```
 
