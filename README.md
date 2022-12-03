@@ -62,5 +62,4 @@
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 * [`BINO`](https://github.com/Sparky-King)
-* [`MOROX3`](https://github.com/morohhx)
 * [`ALONE BOY`](https://github.com/Aloneboy4456)
